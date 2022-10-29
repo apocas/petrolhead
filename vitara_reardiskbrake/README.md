@@ -8,9 +8,9 @@
 
 - Two Lancia/Fiat calipers (ex: Lancia Lybra)
 - Two front Suzuki disks.
-- You need a two brackets to support each caliper. [stl](vitara_reardiskbrake/bracket.stl) [dxf](vitara_reardiskbrake/bracket.dxf)
-- Four spacers to space out the calipers. [stl](vitara_reardiskbrake/spacer.stl)
-- Two handbrake spacers for the handbrake cables. [stl](vitara_reardiskbrake/handbrake.stl)
+- You need a two brackets to support each caliper. [stl](bracket.stl) [dxf](bracket.dxf)
+- Four spacers to space out the calipers. [stl](spacer.stl)
+- Two handbrake spacers for the handbrake cables. [stl](handbrake.stl)
 - Two generic brake lines and tee (Spanish built models don't have a stock tee).
 
 
@@ -14330,7 +14330,7 @@ endsolid Mesh
 
 ### End result
 
-![Vitara Example1](vitara_reardiskbrake/vitara1.jpg?raw=true "Vitara Example1")
+![Vitara Example1](vitara1.jpg?raw=true "Vitara Example1")
 
-![Vitara Example2](vitara_reardiskbrake/vitara2.jpg?raw=true "Vitara Example2")
+![Vitara Example2](vitara2.jpg?raw=true "Vitara Example2")
 
