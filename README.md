@@ -6,7 +6,7 @@ Petrolhead Things
 
 ## Rear disk brake conversion
 
-- Vitara come stock with rear drum brakes. Easiest way to convert it to rear disk brakes is to use Lancia/Fiat calipers (ex: Lancia Lybra) with front disks.
+- Vitara come stock with rear drum brakes. Easiest way to convert it to rear disk brakes is to use Lancia/Fiat calipers (ex: Lancia Lybra) with stock Suzuki front disks.
 - Lancia/Fiat calipers uses stock Suzuki handbrake cables and you don't need to use a proportioning valve.
 - This tutorial will only work with later model axles (axle with wheel studs). For early model axles (studs on the brake drum) you need to design a disc adaptor.
 
@@ -17,7 +17,7 @@ Petrolhead Things
 - You need a two brackets to support each caliper. [stl](vitara_reardiskbrake/bracket.stl) [dxf](vitara_reardiskbrake/bracket.dxf)
 - Four spacers to space out the calipers. [stl](vitara_reardiskbrake/spacer.stl)
 - Two handbrake spacers for the handbrake cables. [stl](vitara_reardiskbrake/handbrake.stl)
-- Two generic brake lines and tee (Spanish built models dont have a stock tee).
+- Two generic brake lines and tee (Spanish built models don't have a stock tee).
 
 
 #### Caliper bracket
